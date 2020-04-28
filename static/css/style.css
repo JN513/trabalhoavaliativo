@@ -61,6 +61,21 @@ nav ul li :hover{
     text-transform: uppercase;
 }
 
+body{
+    background-color: #dcdcdc;
+}
+
+main{
+    background-color: white;
+    border-left: 4px solid #ccc;
+    border-right: 4px solid #ccc;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    height: 100%;
+}
+
+
 footer{
     background-color: orange;
     height: 10vh;	

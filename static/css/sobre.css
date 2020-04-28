@@ -1,0 +1,40 @@
+main aside{
+    width: 49%;
+    margin-left: 1%;
+    border: 1px solid #ccc;
+    height: 15vw;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+main aside ul{
+    list-style: none;
+    position: relative;
+    float: right;
+    position: relative;
+    list-style-type: circle;
+}
+
+main aside ul li{
+    color: black;
+    height: 50px;
+    text-decoration:;
+}
+
+main section{
+    display: block;
+    border: 1px solid #ccc;
+    height: auto;
+    margin-bottom: 1%;
+    justify-content: space-between;
+    text-align: justify;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main section img{
+    padding: 30px;
+    padding-left: 100px;
+}
