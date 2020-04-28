@@ -25,6 +25,7 @@ header{
     padding: 0px;
     padding-left: 50px;
     display: flex;
+    border-bottom: 4px solid #ccc;
 }
 
 nav{
@@ -32,6 +33,7 @@ nav{
     height: 60px;
     background-color: orange;
     font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 4px solid #ccc;
 }
 
 nav ul{
@@ -54,8 +56,9 @@ nav ul li a{
 }
 
 nav ul li :hover{
-    color: blueviolet;
-    background-color: cornflowerblue;
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
 
 footer{
@@ -74,3 +77,4 @@ footer p{
     font-size: 1.0em;
     font-weight: 500;
 }
+
