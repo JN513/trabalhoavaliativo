@@ -18,7 +18,7 @@ main aside ul{
 main aside ul li{
     color: black;
     height: 50px;
-    text-decoration:;
+    text-decoration: none;
 }
 
 main section{
