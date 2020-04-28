@@ -5,7 +5,18 @@
 }
 
 
-
 footer{
-    text-align: center;
+    background-color: ;
+    height: 10vh;	
+    width: 100vw; 
+    border-top: 4px solid #ccc;
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}      
+footer p{
+    font-size: 1.0em;
+    font-weight: 500;
 }
