@@ -81,7 +81,7 @@ footer{
     height: 10vh;	
     width: 100vw; 
     border-top: 4px solid #ccc;
-    position: fixed;
+    position: relative;
     bottom: 0px;
     display: flex;
     justify-content: center;
