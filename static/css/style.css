@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
-/*fontes no google fonts*/
-
 *{
     padding: 0;
     margin: 0;
@@ -60,7 +58,7 @@ nav ul li a{
 }
 
 nav ul li :hover{
-    color: black;
+    color: white;
     text-decoration: underline;
     text-transform: uppercase;
 }
@@ -79,22 +77,6 @@ main{
     height: 100%;
     padding-bottom: 40px;
 }
-/*
-cores:
-cinza: #ccc
-outro cinza: #dcdcdc
-slate blue: #6A5ACD
-RoyalBlue 	#4169E1
-DodgerBlue 	#1E90FF
-MediumBlue 	#0000CD
-SlateBlue3 	#6959CD
-DarkSlateBlue 	#483D8B
-MidnightBlue 	#191970
-Navy 	#000080
-DarkBlue 	#00008B
-
-tabela de cores: https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
-*/
 
 footer{
     background-color: #6A5ACD;
@@ -120,7 +102,7 @@ footer p{
 }
 
 #volteotopo a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 

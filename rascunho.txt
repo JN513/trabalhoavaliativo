@@ -1,0 +1,47 @@
+mais fontes montserrat
+
+ <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+
+ colocar isso no html no lugar do que ta la caso for trocar
+
+
+ fontes e so pesquisar no google fontes
+
+cores pra css:
+ /*
+cores:
+cinza: #ccc
+outro cinza: #dcdcdc
+slate blue: #6A5ACD
+RoyalBlue 	#4169E1
+DodgerBlue 	#1E90FF
+MediumBlue 	#0000CD
+SlateBlue3 	#6959CD
+DarkSlateBlue 	#483D8B
+MidnightBlue 	#191970
+Navy 	#000080
+DarkBlue 	#00008B
+
+tabela de cores: https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
+*/
+
+aside caso precise:
+
+<!--
+            <aside>
+                <ul>
+                    <li><a href="#oquecorona">O que é o Coronavirus.</a></li>
+                    <li><a href="#oquecovid-19">O que é o COVID-19</a></li>
+                    <li><a href="#primere">Primeiros relatos</a></li>
+                    <li><a href="#historia">Origem evolutiva dos coronavírus humanos</a></li>
+                    <li><a href="#sarscov2">Informações Tecnicas sobre o SARS-CoV-2</a></li>
+                </ul>
+            </aside>
+        -->    
+
+
+importando fontes no css
+
+/*todas montserrat se quiserem @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');*/
+
+/*fontes no google fonts*/
