@@ -5,3 +5,29 @@
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
+
+main section{
+    display: block;
+    border-right: 1px solid #ccc;
+    height: auto;
+    justify-content: space-between;
+    text-align: justify;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main section h1{
+    font-size: 30px;
+}
+
+main section ul{
+    list-style: none;
+    list-style-type: square;
+    padding-left: 25px;
+}
+
+main section ul li{
+    padding: 5px;
+}
