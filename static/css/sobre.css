@@ -7,7 +7,6 @@
 }
 
 main section{
-    display: block;
     border-right: 1px solid #ccc;
     height: auto;
     justify-content: space-between;
