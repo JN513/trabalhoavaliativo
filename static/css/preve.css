@@ -21,13 +21,14 @@ main section{
 
 main section h1{
     font-size: 30px;
+    text-align: center;
 }
 
-main section h1 a{
+main section h2 a{
     color: black;
 }
 
-main section h1 a:hover{
+main section h2 a:hover{
     text-decoration: underline;
 }
 
@@ -35,4 +36,12 @@ main section ul{
     list-style: none;
     list-style-type: square;
     padding-left: 25px;
+}
+
+main section figure{
+    text-align: center;
+}
+
+main section figure img{
+    padding: 30px;
 }

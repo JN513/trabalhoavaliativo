@@ -28,9 +28,13 @@ main section h1{
 
 main table thead tr th{
     padding: 5px;
+    background-color: black;
+    color: white;
 }
 
 main table tbody tr th{
     padding: 5px;
     font-weight: 300;
+    background-color: gray;
+    color: white;
 }
