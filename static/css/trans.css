@@ -6,7 +6,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-main section{
+main{
     display: block;
     height: auto;
     justify-content: space-between;
@@ -17,24 +17,24 @@ main section{
     padding-right: 15px;
 }
 
-main section ul{
+main ul{
     padding-left: 25px;
 }
 
-main section ul li{
+main ul li{
     padding: 5px;
     list-style-type: square;
 }
 
-main section h1{
+main h1{
     font-size: 30px;
     text-align: center;
 }
 
-main section figure{
+main figure{
     text-align: center;
 }
 
-main section figure img{
+main figure img{
     padding: 30px;
 }

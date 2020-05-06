@@ -6,21 +6,20 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-main section h1{
+main h1{
     font-size: 30px;
     text-align: center;
 }
 
-main section figure{
+main figure{
     text-align: center;
 }
 
-main section figure img{
+main figure img{
     padding: 30px;
-    padding-left: 200px;
 }
 
-main section{
+main{
     display: block;
     height: auto;
     justify-content: space-between;
@@ -31,13 +30,17 @@ main section{
     padding-right: 15px;
 }
 
-#ptext{
-    padding-left: 200ṕx;
+article{
+    text-align: center;
 }
 
-#tabletext{
+table{
+    text-align: center; 
+    padding-left: 450px;
+}
+table caption{
     text-align: center;
-    padding-left: 250px;
+    padding-left: 450px;
 }
 
 table thead th{

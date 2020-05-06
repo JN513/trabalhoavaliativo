@@ -6,7 +6,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-main section{
+main{
     display: block;
     height: auto;
     justify-content: space-between;
@@ -17,36 +17,35 @@ main section{
     padding-right: 15px;
 }
 
-main section h1{
+main h1{
     font-size: 30px;
     text-align: center;
 }
 
-main section ul{
+main ul{
     list-style: none;
     list-style-type: square;
     padding-left: 25px;
 }
 
-main section ul li a{
+main ul li a{
     text-decoration: none;
     color: black;
 }
 
-main section ul li a:hover{
+main ul li a:hover{
     text-decoration: underline;
     color: black;
 }
 
-main section ul li{
+main ul li{
     padding: 5px;
 }
 
-main section figure{
+main figure{
     text-align: center;
 }
 
-main section figure img{
+main figure img{
     padding: 30px;
-    padding-left: 100px;
 }
